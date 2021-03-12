@@ -5,9 +5,11 @@ Base Dockerfile and scripts for Ubuntu Focal containers
 
 1. Clone this repository.
 
+    ```bash
     cd /home/me
     git clone https://github.com/mfschmidt/ubuntu_20_docker_base.git
     cd ubuntu_20_docker_base
+    ```
 
 2. Replace code/run.py with your own code.
 
